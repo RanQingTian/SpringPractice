@@ -18,6 +18,7 @@ build/
 .project
 .metadata/
 .idea/
+node_modules/
 logs/
 dev.properties
 dependency-reduced-pom.xml
@@ -25,6 +26,8 @@ dependency-reduced-pom.xml
 t.txt
 application-dev.yml
 application-local.yml
+package.json
+package-lock.json
 
 forcepackerfile
 .pampas/
